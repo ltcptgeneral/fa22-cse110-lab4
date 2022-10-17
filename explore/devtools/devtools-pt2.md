@@ -1,0 +1,2 @@
+1. The bug is that the inputs num1 and num2 are strings, so num1 + num2 performed string concatenation rather than addition.
+2. If we convert num1 and num2 using the Number() function, then it will use addition rather than string concatenation
