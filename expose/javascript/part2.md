@@ -33,7 +33,7 @@
 	F. true : Boolean(2)returns true, which is equal to true and the same type
 15. == converts both sides to numbers and does the comparison. === does not convert, so values of different types cannot be equal.
 16. Code included.
-17. The retirn value should be [2,4,6]. In the modifyArray for loop, it iterate through each element in array which is [1,2,3]. The loop calls the callback method, which is doSomething as passed into the arguments, which doubles the input value. Thus, each value in array is doubled and then pushed into newArr, to get [2,4,6]. 
+17. The return value should be [2,4,6]. In the modifyArray for loop, it iterate through each element in array which is [1,2,3]. The loop calls the callback method, which is doSomething as passed into the arguments, which doubles the input value. Thus, each value in array is doubled and then pushed into newArr, to get [2,4,6]. 
 18. Code included.
 19. The output is: 
 	1
